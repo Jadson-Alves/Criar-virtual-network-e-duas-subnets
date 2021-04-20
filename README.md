@@ -6,4 +6,4 @@ Conteúdo:
 
 Script PowerShell para virtual network e duas subnets
 Para maior entendimento para a execução do script acesse ou link do artigo: https://cooperati.com.br/2021/03/automatizar-o-start-e-stop-de-maquinas-virtuais-no-azure/ 
-[Créditos - Jádson Alves] - {https://jadsonalves.com.br/}
+Créditos - Jádson Alves - https://jadsonalves.com.br/
